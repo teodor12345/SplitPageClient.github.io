@@ -36,7 +36,7 @@ white-space: nowrap;
 }
 .btn{
     position: absolute;
-    left: 50%;
+    left: 55%;
     top: 40%;
     transform: translateX(-50%);
     text-decoration: none;
