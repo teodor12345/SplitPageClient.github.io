@@ -78,7 +78,7 @@ white-space: nowrap;
 }
 .split.left{
     left: 0;
-   background: url('/SplitPageClient.github.io/ASSETS/PS\ 5\ series.jpg');
+   background:  url(/PS\ 5\ series.jpg);
    background-repeat: no-repeat;
    background-size: cover;
 
@@ -86,7 +86,7 @@ white-space: nowrap;
 }
 .split.right{
     right: 0;
-    background: url('/SplitPageClient.github.io/ASSETS/X-Box-x-series.jpg');
+    background: url(/X-Box-x-series.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 
