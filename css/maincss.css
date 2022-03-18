@@ -77,8 +77,8 @@ white-space: nowrap;
     overflow: hidden;
 }
 .split.left{
-    left: 0;
-   background:  url(/PS\ 5\ series.jpg);
+   left: 0;
+   background: url(https://mobilesyrup.com/wp-content/uploads/2020/11/ps5-console-accessories-scaled.jpg);
    background-repeat: no-repeat;
    background-size: cover;
 
@@ -86,7 +86,7 @@ white-space: nowrap;
 }
 .split.right{
     right: 0;
-    background: url(/X-Box-x-series.jpg);
+    background: url(http://cdn.mos.cms.futurecdn.net/sRLTs4vF5Rb3oEBheJKRxE.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 
